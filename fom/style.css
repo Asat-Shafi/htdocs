@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+max-width: 80%;
+ 
+padding: 34px;
+ margin: auto;
+}
+.container h1{
+text-align:center;
+}
+p{
+font-size: 16px;
+text-align: center;
+font-family:'sriracha', cursive;
+}
+input,textarea{
+    
+    font-size: 16px;
+    width: 80%;
+    margin: 11px auto;
+    padding: 7px;
+    border: 2px solid black;
+    border-radius: 6px;
+    outline: none;
+
+}
+form{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.btn{
+color: wheat;
+background:purple;
+padding: 8px 12px;
+font-size: 20px;
+border: 2px solid wheat;
+border-radius: 14px;
+cursor: pointer;
+}
+11:35 PM 10/3/2022
+.msg{
+     
+    color: blue;
+}
